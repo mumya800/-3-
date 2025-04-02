@@ -7,5 +7,6 @@ int main()
     {
         printf("%s\n", colors[i]);
     }
+    
     return 0;
 }
